@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rgmz1
 - 👀 I’m interested in creating a website dedicated to being goofy in order to practice everything I learn
 - 🌱 I’m currently learning how to use github   
-- 💞️ I’m looking to collaborate on ...absolutely anyuthing I can collaborate on 
+- 💞️ I’m looking to collaborate on ...absolutely anything I can collaborate on 
 - 📫 How to reach me ...through my executive email
 
 <!---
